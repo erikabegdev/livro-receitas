@@ -1,2 +1,2 @@
-# livro-receitas
-Meu livro de receitas
+# Meu primeiro livro-receitas criado pela DIO
+
