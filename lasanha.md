@@ -1,4 +1,4 @@
-# Lasanha Clássica
+# _Lasanha Clássica_
 
 ### Ingredientes:
 
@@ -26,5 +26,5 @@
 * Retire do forno e deixe descansar por 10 minutos antes de servir.
   
 ### Dicas:
-* Você pode adicionar camadas de legumes, como abobrinha ou espinafre, para deixar a lasanha mais saudável.
-* Troque o presunto por peito de peru se preferir uma versão mais leve.
+Você pode adicionar camadas de legumes, como abobrinha ou espinafre, para deixar a lasanha mais saudável. 
+Troque o presunto por peito de peru se preferir uma versão mais leve. 
